@@ -1,17 +1,16 @@
 import React from "react";
 import  ReactDOM from "react-dom";
 
-function App () {
+const App = () => {
 
 
+    return(
     <div>
         <h1>Teste</h1>
     </div>
-
+    )
 
 }
-
-export default App;
 
 ReactDOM.render(
     <App />,
