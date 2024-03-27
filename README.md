@@ -1,3 +1,14 @@
+*PROJETO A3*
+
+ALUNOS:
+Arnald Weslen Rocha Matos / RA 823159883
+Guilherme Soares de Jesus / RA 823156370
+João Carlos Cordeiro Cicerí / RA 823127748
+Pedro Chiconelli Gomes de Victor / RA 823136041
+Vinycius Soares Martinelli / RA 823160582
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
